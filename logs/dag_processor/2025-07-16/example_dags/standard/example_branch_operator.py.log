@@ -1,0 +1,4 @@
+{"timestamp":"2025-07-16T03:47:48.802581","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/standard/example_branch_operator.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-16T03:48:28.620633","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/standard/example_branch_operator.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-16T03:48:59.357429","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/standard/example_branch_operator.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-16T03:49:30.865138","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/standard/example_branch_operator.py","logger":"airflow.models.dagbag.DagBag"}
